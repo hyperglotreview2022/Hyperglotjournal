@@ -6,8 +6,8 @@ const Footer = () => {
   return (
     <footer className={styles.footerContainer}>
       <div>
-        <a href="/page/submissions.html">Submissions</a>
-        <a href="/page/aboutus.html">About Us</a>
+        <a href="/page/submissions.html">Artists</a>
+        <a href="/page/aboutus.html">Authors</a>
       </div>
       <p className={styles.language}>Follow Us On:</p>
       <p>

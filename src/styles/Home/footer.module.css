@@ -10,6 +10,7 @@
     margin: 0 10px;
     color: white;
     text-decoration: none;
+    font-size: 18px;
   }
   .footerContainer a:hover{
     color: rgb(230, 230, 230);
