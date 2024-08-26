@@ -1,0 +1,29 @@
+  .footerContainer{
+    background-color: black;
+    padding: 20px 0;
+    text-align: center;
+  }
+  .footerContainer div{
+    margin: 10px 0;
+  }
+  .footerContainer a{
+    margin: 0 10px;
+    color: white;
+    text-decoration: none;
+  }
+  .footerContainer a:hover{
+    color: rgb(230, 230, 230);
+  }
+  .footerContainer p{
+    color: white;
+  }
+  .light{
+    font-weight: 200;
+    font-size: 14px;
+    margin: 30px 0;
+  }
+  .language{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }

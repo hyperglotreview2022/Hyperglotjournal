@@ -1,0 +1,53 @@
+
+.herocontainer{
+    font-family: 'EB Garamond', serif;
+    display: flex;
+    padding: 20px 5vw 50px;
+    background-color: white;
+  }
+  .imgcontainer{
+    width: 45vw;
+    height: 500px;
+  }
+  .img,.img1,.img2,.img3{
+    width: 45vw;
+    height: 500px;
+    object-fit: cover;
+  }
+  .show2:hover , .show1:hover ,.show3:hover ,.show4:hover{
+    background-color: rgb(14, 14, 14);
+  }
+  .herotextcont{
+    padding: 10px 0;
+    padding-left: 2vw;
+    border-bottom: 1px solid white;
+  }
+  .herotextcont:hover{
+    cursor: pointer;
+  }
+  .herofirsttext{
+    font-style: italic;
+  }
+  .herosectext{
+    font-size: 30px;
+    margin-bottom: 5px;
+  }
+  .herolasttext{
+    font-family: 'Familjen Grotesk', sans-serif;
+  }
+  .herotextbigcont{
+    background-color: black;
+    color: white;
+    height: 500px;
+    width: 43vw;
+  }
+  .seemore{
+    font-family: 'Familjen Grotesk', sans-serif;
+    color: rgb(174, 174, 174);
+    padding: 20px 2vw;
+    transition: 0.3s;
+  }
+  .seemore:hover{
+    cursor: pointer;
+    color: white;
+  }
